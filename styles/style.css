@@ -108,6 +108,10 @@ ol {
   padding-right: 3px;
 }
 
+.content__list-item:last-child {
+  margin-bottom: 30px;
+}
+
 .content__video-card {
   display: flex;
   justify-content: space-between;
